@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm CIT student at BCIT and currently looking for co-op positions for the Summer of 2023. 
+
+> work in progress...
+
 <!--
 **udaychhina/udaychhina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
