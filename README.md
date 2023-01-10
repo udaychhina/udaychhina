@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm CIT student at BCIT and currently looking for co-op positions for the Summer of 2023. 
+I'm a CIT student at BCIT and currently looking for co-op positions for the Summer of 2023. 
 
 > work in progress...
 
