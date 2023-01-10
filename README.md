@@ -1,7 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm a CIT student at BCIT and currently looking for co-op positions for the Summer of 2023. 
 
+### Projects
+
+1. (Homework Tracker App)[https://github.com/udaychhina/acit2911]
 > work in progress...
 
 <!--
