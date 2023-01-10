@@ -4,7 +4,7 @@ I'm a CIT student at BCIT and currently looking for co-op positions for the Summ
 
 ### Projects
 
-1. (Homework Tracker App)[https://github.com/udaychhina/acit2911]
+1. !(Homework Tracker App)[https://github.com/udaychhina/acit2911]
 > work in progress...
 
 <!--
