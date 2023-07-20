@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a CIT student at BCIT and currently looking for co-op positions for the Summer of 2023. 
+I'm a CIT student at BCIT and currently working as a Scientific Computing Programmer Co-op at TRIUMF.
 
 ### Projects
 
